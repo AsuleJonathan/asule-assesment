@@ -10,7 +10,8 @@ print(isExist)
 
 
 # Specify path 
-path = '/home/User/Desktop/file.txt'
+path = '/home/jonathan/Desktop/Assesment/asule-assesment/LICENSE'
+path = '/home/jonathan/Desktop/Assesment/asule-assesment/.gitignore'
 
 # Check whether the specified 
 # path exists or not 

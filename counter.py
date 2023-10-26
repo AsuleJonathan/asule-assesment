@@ -10,8 +10,8 @@ print(isExist)
 
 
 # Specify path 
-path = '/home/jonathan/Desktop/Assesment/asule-assesment/LICENSE'
-path = '/home/jonathan/Desktop/Assesment/asule-assesment/.gitignore'
+path = '/home/jonathan/Desktop/New Folder/Assesment/asule-assesment/LICENSE'
+path = '/home/jonathan/Desktop/New Folder/Assesment/asule-assesment/.gitignore'
 
 # Check whether the specified 
 # path exists or not 

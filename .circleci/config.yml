@@ -24,4 +24,6 @@ jobs:
     # Run the tests for our scripts
       - run:
           name: Run tests
-          command: pytest
+          command: |
+            . venv/bin/activate
+            pytest
